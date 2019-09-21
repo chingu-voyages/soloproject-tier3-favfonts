@@ -12,7 +12,7 @@ Ultimately you'll have a great portfolio piece, and will have implemented a numb
 
 ## Instructions ##
 
-Tier 3 can **MUST** include a backend for authentication and persitence. Use of localStorage, IDB, CacheAPI, etc., are *not* fill-ins for this project's presistence.
+Tier 3 **MUST** include a backend for authentication and persitence. Use of localStorage, IDB, CacheAPI, etc., are *not* fill-ins for this project's presistence.
 
 General instructions for all Pre-Work Projects can also be found in the Chingu Voyage Handbook (URL posted in the #read-me-first channel on Discord).
 
@@ -54,8 +54,8 @@ This project utilizes the (**Google Fonts API**)[https://developers.google.com/f
 
 The call to the **Google Fonts Developer API** needs to be completed in the backend. How you process that data is up to you.
 
-Use of the Font Loader library is **not** needed for this project. If you come back to this project after the pre-work, feel free to add the loader library to get more functionality when calling different styles, weights, and swaps.
+Use of the Font Loader Library is **not** needed for this project. If you come back to this project after the pre-work, feel free to add the loader library to get more functionality when calling different styles, weights, and swaps.
 
 ## Example ##
-*This example shows all parts of functionality except for the user login and favorites list.
+*This example shows all parts of functionality except for the user login and favorites list.*
 ![Preview Gif](./assets/appPreview.gif)
