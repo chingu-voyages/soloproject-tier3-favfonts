@@ -39,20 +39,16 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 - [ ] On load, the page should display fonts sorted by current popularity, as returned by the Google Fonts Developer API *(see below)*; this call should be server-side
 - [ ] The search feature should be fully functional and display matching fonts (it's up to you if you want to do this via a 'submit' or through onchange)
 - [ ] When the search input is cleared (via reset button or manually), the fonts should automaticaly display sorted by poplarity again
-- [ ] Fonts from the Developer API should be retrieved and stored on the back *(see below)*
+- [ ] Fonts from the Developer API should be retrieved on the back-end and sent to the client *(see below)*
 - [ ] StyleSheet requests from the Google Fonts API can be compiled on either the front or the back
-
-**Must Include *One* of The Following Features**
-
-- [ ] User creation and authentication: Add a login button to the page that allows registered users to login, or prompts new users to register. Once a user is authenticated, display somewhere on the page that they are logged in.
-- [ ] Add a favorites feature with back-end persistence: one example of this would be to use cookies to point to the user's favorite list in your database. You'll need to add a "see favorites" button somewhere to toggle between the view of the user's favorite fonts and the searches / popularity sort.
 
 **Extras (Not Required)**
 
 - [ ] Make your design fully responsive (small/large/portrait/landscape, etc.)
 - [ ] Implement the light/dark mode toggle buttons
 - [ ] Implement the change display icon so you can flip between a grid layout and a list layout for the font cards
-- [ ] Add the feature that you did not choose in the Must Include One Of list above.
+- [ ] User creation and authentication: Add a login button to the page that allows registered users to login, or prompts new users to register. Once a user is authenticated, display somewhere on the page that they are logged in.
+- [ ] Add a favorites feature with back-end persistence: one example of this would be to use cookies to point to the user's favorite list in your database. You'll need to add a "see favorites" button somewhere to toggle between the view of the user's favorite fonts and the searches / popularity sort.
 
 ## API Information ##
 
