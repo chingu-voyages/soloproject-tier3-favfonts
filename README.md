@@ -12,7 +12,7 @@ Ultimately you'll have a great portfolio piece, and will have implemented a numb
 
 ## Instructions ##
 
-Tier 3 **MUST** include a back-end for authentication and/or persitence. Use of localStorage, IDB, CacheAPI, etc., are *not* fill-ins for this project's presistence.
+Tier 3 **MUST** include a back-end for authentication and/or persitence. Use of localStorage, IDB, CacheAPI, etc., are *not* fill-ins for this project's persistence if you choose to implement the Extra tasks.
 
 General instructions for all Pre-Work Projects can also be found in the Chingu Voyage Handbook (URL posted in the #read-me-first channel on Discord).
 
