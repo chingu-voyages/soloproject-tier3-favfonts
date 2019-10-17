@@ -22,7 +22,7 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 - [ ] Header with minor navigation *(Logo and Catalog/Featured/Articles/About link list)*
 - [ ] Nav with Major navigation / page-manipulation *(search, custom text, font-size, dark/light mode, grid/list mode, and reset)*
 - [ ] Main section for the font cards
-- [ ] Font cards which display the Font Name, the creator, the sample text, and an add button
+- [ ] Font cards which display the Font Name, the sample text, and an add button
 - [ ] Button that allows user to click and scroll back up to the top *(there could be up to 959 fonts displayed, so you need this!)*
 - [ ] Footer section with your developer information
 
