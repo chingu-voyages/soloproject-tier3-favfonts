@@ -4,7 +4,7 @@
 
 ## Overview ##
 
-This project is a great opportunity to develop a clean and modern webpage. The *Favorite Fonts* app will be completed accross tiers, with each tier adding a level of complexity. You are currently on the *Tier 3* repo. You'll be responsible for coding the **HTML**, **CSS**, and **JavaScript** to get the structure, styling, and functionality up and running, as well as a back-end, in a stack of your choice, to allow user authentication and/or persistence functionality.
+This project is a great opportunity to develop a clean and modern webpage. The *Favorite Fonts* app will be completed accross tiers, with each tier adding a level of complexity. You are currently on the *Tier 3* repo. You'll be responsible for coding the **HTML**, **CSS**, and **JavaScript** to get the structure, styling, and functionality up and running, as well as a back-end, in a stack of your choice, to process the necessary api call and, **if desired**, to allow user authentication and/or persistence functionality.
 
 Ultimately you'll have a great portfolio piece, and will have implemented a number of common and in-demand features.
 
@@ -12,7 +12,7 @@ Ultimately you'll have a great portfolio piece, and will have implemented a numb
 
 ## Instructions ##
 
-Tier 3 **MUST** include a back-end for authentication and/or persitence. Use of localStorage, IDB, CacheAPI, etc., are *not* fill-ins for this project's persistence if you choose to implement the Extra tasks.
+Tier 3 **MUST** include a back-end to make the necessary API calls. If desired, you can also add authentication and/or persistence. Use of localStorage, IDB, CacheAPI, etc., are *not* fill-ins for this project's persistence if you choose to implement the Extra tasks.
 
 General instructions for all Pre-Work Projects can also be found in the Chingu Voyage Handbook (URL posted in the #read-me-first channel on Discord).
 
@@ -22,7 +22,7 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 - [ ] Header with minor navigation *(Logo and Catalog/Featured/Articles/About link list)*
 - [ ] Nav with Major navigation / page-manipulation *(search, custom text, font-size, dark/light mode, grid/list mode, and reset)*
 - [ ] Main section for the font cards
-- [ ] Font cards which display the Font Name, the sample text, and an add button
+- [ ] Font cards which display the Font Name, the sample text, and an add button (the font creator is not available via the api, so it is **not** required in tiers 2 or 3)
 - [ ] Button that allows user to click and scroll back up to the top *(there could be up to 959 fonts displayed, so you need this!)*
 - [ ] Footer section with your developer information
 
@@ -41,6 +41,10 @@ General instructions for all Pre-Work Projects can also be found in the Chingu V
 - [ ] When the search input is cleared (via reset button or manually), the fonts should automaticaly display sorted by poplarity again
 - [ ] Fonts from the Developer API should be retrieved on the back-end and sent to the client *(see below)*
 - [ ] StyleSheet requests from the Google Fonts API can be compiled on either the front or the back
+
+*Other*
+- [ ] Your repo needs to have a robust README.md
+- [ ] Make sure that there are no errors in the developer console before submitting
 
 **Extras (Not Required)**
 
