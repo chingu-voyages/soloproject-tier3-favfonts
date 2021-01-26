@@ -8,6 +8,19 @@ This project is a great opportunity to develop a clean and modern webpage. The *
 
 Ultimately you'll have a great portfolio piece, and will have implemented a number of common and in-demand features.
 
+## About Chingu
+
+If you aren’t yet a member of Chingu we invite you to join us. We help our 
+members transform what they’ve learned in courses & tutorials into the 
+practical experience employers need and want.
+
+Our remote team projects let you refine your technical skills and put them 
+into practice while gaining new “soft” skills like communication, 
+collaboration, and Agile project management. The types of skills that 
+help real-world teams get things done!
+
+You can learn more and join us at [chingu.io](https://chingu.io).
+
 **You May Use the Stack of Your Choice!**
 
 ## Instructions ##
